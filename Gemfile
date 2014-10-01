@@ -22,7 +22,7 @@ group :assests do
 # Use CoffeeScript for .js.coffee assets and views
 	gem 'coffee-rails', '~> 4.0.0'
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-	gem 'turbolinks'
+	gem 'turbolinks', '~> 2.3.0'
 
 end
 
